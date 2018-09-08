@@ -4,7 +4,8 @@
 # Plus a few tweaks by /u/toyg
 # https://gist.github.com/toyg/09ef7acae2ee97c6fd4c5016ef4ab8e0
 #
-# Stripped down to only dump a list of links by me.
+# Stripped down to only dump a list of links by oniZM.
+# https://github.com/mzino/filescdn-dumper
 #
 # This is a Python 2.7 script; you will also need Requests and BeautifulSoup. 
 # If you have virtualenv installed:
